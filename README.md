@@ -1,5 +1,5 @@
 # 💫 About Me:
-Studing<br>Code with: p5.js, scratch, minecraft java comands, html<br>From Brazil<br><br>
+Studing<br>Code with: p5.js, Scratch, starting C++ and C#, html<br>From Brazil<br><br>
 
 
 ## 🌐 Socials:
